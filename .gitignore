@@ -1,0 +1,9 @@
+.venv/
+SavedEmbeddings/
+app_v0.py
+Aws_Face_Search_v0.1.py
+Aws_Face_Search_v0.2.py
+Aws_Face_Search_vo.py
+GeneralThought-195K.csv
+hf_dataset_download.py
+test.txt
