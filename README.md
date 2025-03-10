@@ -56,11 +56,13 @@
   ```bash
   git clone https://github.com/sragh/Photosearch.git
 
-Install dependencies:
-pip install -r requirements.txt
+- Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-Run the Streamlit app:
-streamlit run app.py
+- Run the Streamlit app:
+  ```bash
+   streamlit run app.py
 
 Future enhancements could include integrating additional cloud cost optimizations, expanding to real-time search capabilities, and enhancing the UI with more search filters. Find your moments in a snap! 📸✨
 
